@@ -1,3 +1,5 @@
+Remixed from: https://hacks.mozilla.org/2017/09/i-built-something-with-a-frame-in-2-days-and-you-can-too/ 
+
 # Marketing Presentation in VR Demo
 
 This is a simple demonstration of how easy it is to build virtual reality presentations using A-Frame.
